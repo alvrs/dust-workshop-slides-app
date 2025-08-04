@@ -3,7 +3,7 @@
   "name": "DUST Workshop",
   "startUrl": "/",
   "defaultSize": {
-    "width": 600,
-    "height": 400
+    "width": 1000,
+    "height": 750
   }
 }
